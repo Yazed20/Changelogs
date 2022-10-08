@@ -11,7 +11,7 @@
 - September Security Patch 
 - Project Elixir 3.1 - More changelog on website
 - No need to flash Gapps (included)
-
+- and fix the launcher random lags
 ## NOTES 
 - If you find any bugs tag me with logs.
 - Its mandatory follow the right follow steps if you don't want a brick
@@ -20,3 +20,6 @@
 @sakthivelnadar @telepathine @surblazer  @ceb8khs @bengris32 and Other Redmi-MT6768 contributions  For dt
 
 @usergrinch for test
+
+--bugs 
+1- hotspot not working with wifi enable
